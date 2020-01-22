@@ -1,0 +1,6 @@
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\bin\Debug\CashRegister_ChunFeiJohnnyTiu.exe.config
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\bin\Debug\CashRegister_ChunFeiJohnnyTiu.exe
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\bin\Debug\CashRegister_ChunFeiJohnnyTiu.pdb
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\obj\Debug\CashRegister_ChunFeiJohnnyTiu.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\obj\Debug\CashRegister_ChunFeiJohnnyTiu.exe
+C:\Users\Johnny\source\repos\CashRegister_ChunFeiJohnnyTiu\obj\Debug\CashRegister_ChunFeiJohnnyTiu.pdb
